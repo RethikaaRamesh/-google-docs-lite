@@ -1,4 +1,4 @@
-```text
+
 # 📄 Google Docs Lite
 
 A simplified **real-time collaborative text editor** inspired by Google Docs. This project demonstrates real-time text synchronization using **Socket.IO**, persistent storage with **MongoDB**, and a **React** frontend.
@@ -37,7 +37,7 @@ A simplified **real-time collaborative text editor** inspired by Google Docs. Th
 
 ## 📁 Project Structure
 
-```
+```text
 google-docs-lite/
 │
 ├── client/
@@ -166,5 +166,6 @@ CSE Student | MERN Stack Learner
 ---
 
 ⭐ If you found this project useful, give it a star on GitHub!
+
 
 
